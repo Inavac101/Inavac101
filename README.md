@@ -1,4 +1,5 @@
 ### Hi everyone Welcome to my profile 👋
+![Cover](https://github.com/Inavac101/Inavac101/blob/main/img/Inavac101.jpg)
 
 <!--
 **Inavac101/Inavac101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
