@@ -2,7 +2,8 @@
 ![Cover](https://github.com/Inavac101/Inavac101/blob/main/img/Luimar_Cavani.JPG)
 
 
-  Bienvenue sur mon site GitHub ! Je m'appelle Luimar Cavani et j'ai une expérience riche et variée dans le domaine du management. Au fil des années, j'ai développé une forte capacité à travailler en équipe, à être rigoureux dans la gestion de projets, et à être honnête et transparent dans mes interactions professionnelles.
+##Bienvenue sur mon site GitHub ! 
+  Je m'appelle Luimar Cavani et j'ai une expérience riche et variée dans le domaine du management. Au fil des années, j'ai développé une forte capacité à travailler en équipe, à être rigoureux dans la gestion de projets, et à être honnête et transparent dans mes interactions professionnelles.
 
 Cependant, je me suis récemment lancé dans une reconversion professionnelle et j'ai décidé de me concentrer sur le développement web et web mobile full stack. Malgré mes 41 ans, j'ai une soif d'apprendre inépuisable et je suis motivé à continuer à développer mes compétences et mes connaissances dans ce domaine.
 
@@ -10,14 +11,15 @@ Ce site GitHub est donc un moyen pour moi de partager mes projets et mes réalis
 
 #######################################################################################################
 
-   Welcome to my GitHub page! My name is Luimar Cavani and I have a diverse background in management. Over the years, I have developed a strong ability to work in a team, be rigorous in project management, and be honest and transparent in my professional interactions.
+##Welcome to my GitHub page! 
+  My name is Luimar Cavani and I have a diverse background in management. Over the years, I have developed a strong ability to work in a team, be rigorous in project management, and be honest and transparent in my professional interactions.
 
 However, I recently made a career change and decided to focus on full stack web mobile and web development. Despite being 41 years old, I have an insatiable thirst for learning and am motivated to continue developing my skills and knowledge in this field.
 
 This GitHub page is a way for me to share my projects and accomplishments as a web developer, while highlighting my qualities as a team player, meticulousness, and honesty. Please feel free to browse my work and contact me if you have any questions or comments. Thank you for visiting!
 
 
-VARIOUS TECH I USE
+
 
 ## Technologies
 
@@ -32,18 +34,14 @@ VARIOUS TECH I USE
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
+##WHERE TO FIND ME
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle/)
 
 <!--
 **Inavac101/Inavac101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
