@@ -16,6 +16,10 @@ However, I recently made a career change and decided to focus on full stack web 
 
 This GitHub page is a way for me to share my projects and accomplishments as a web developer, while highlighting my qualities as a team player, meticulousness, and honesty. Please feel free to browse my work and contact me if you have any questions or comments. Thank you for visiting!
 
+
+VARIOUS TECH I USE
+
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 <!--
 **Inavac101/Inavac101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
