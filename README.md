@@ -8,7 +8,7 @@ Cependant, je me suis récemment lancé dans une reconversion professionnelle et
 
 Ce site GitHub est donc un moyen pour moi de partager mes projets et mes réalisations en tant que développeur web, tout en mettant en avant mes qualités de travailleur d'équipe, de rigueur et d'honnêteté. N'hésitez pas à parcourir mon travail et à me contacter si vous avez des questions ou des commentaires. Merci de votre visite !
 
-###########################################################################################################
+#######################################################################################################
 
    Welcome to my GitHub page! My name is Luimar Cavani and I have a diverse background in management. Over the years, I have developed a strong ability to work in a team, be rigorous in project management, and be honest and transparent in my professional interactions.
 
