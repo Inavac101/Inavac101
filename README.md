@@ -1,5 +1,5 @@
 ### Hi everyone Welcome to my profile 👋
-![Cover](https://github.com/Inavac101/Inavac101/blob/main/img/Luimar_CavaniJPG.JPG)
+![Cover](https://github.com/Inavac101/Inavac101/blob/main/img/Luimar_Cavani.JPG)
 
 
   Bienvenue sur mon site GitHub ! Je m'appelle Luimar Cavani et j'ai une expérience riche et variée dans le domaine du management. Au fil des années, j'ai développé une forte capacité à travailler en équipe, à être rigoureux dans la gestion de projets, et à être honnête et transparent dans mes interactions professionnelles.
